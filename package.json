@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Temp and humidity sensor (si7021)",
+  "name": "@cjacobs/homebridge-temp-humidity",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "This plugin connects a si7021 sensor to homebridge.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git://github.com/cjacobs/homebridge-temp-humidity.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/cjacobs/homebridge-temp-humidity/issues"
   },
   "engines": {
     "node": ">=10.17.0",
